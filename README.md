@@ -3,7 +3,7 @@ Schools nearby by geospatial location
 
 This case gets data from schools in Fortaleza - Brazil 
 It treat the data evaluating missing data or dirty data as wrong coordinates.
-Inform your coordinates to find near schools near you.
+Inform your coordinates to find schools near you.
 
 
 # Download shool dataset
