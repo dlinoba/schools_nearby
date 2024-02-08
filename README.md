@@ -6,7 +6,7 @@ It treat the data evaluating missing data or dirty data as wrong coordinates.
 Inform your coordinates to find schools near you.
 
 
-# Download shool dataset
+# Download school dataset
 https://dados.gov.br/dados/conjuntos-dados/unidades-educacionais-sme
 
 # How to run the project:
